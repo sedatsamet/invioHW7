@@ -1,5 +1,5 @@
 # invioHW7
-### Techcareer.net Invio iOS Bootcamp Homework 7 - Todo App with SQLite
+### Techcareer.net Invio iOS Bootcamp Homework 7 - Todo App with SQLite & VIPER
 
 **Tools that I used:**
 
