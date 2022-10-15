@@ -18,3 +18,5 @@
 **Architecture:**
 
 -   VIPER
+
+![](https://github.com/sedatsamet/invioHW7/blob/main/EkranGoruntuleri/1.Anasayfa_EkranGoruntusu.png)
